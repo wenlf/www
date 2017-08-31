@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("e");
 		System.out.println("ef");
+		System.out.println("fg");
 	}
 
 }
