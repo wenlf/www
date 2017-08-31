@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("e");
 		System.out.println("ef");
 		System.out.println("fg");
+		System.out.println("kk");
 	}
 
 }
